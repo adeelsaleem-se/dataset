@@ -1,18 +1,1 @@
-a
-back
-close
-current
-down
-forward
-go
-goto
-new
-open
-page
-refresh
-reload
-scroll
-tab
-this
-to
-up
+a back close current down forward go goto new open page refresh reload scroll tab this to up

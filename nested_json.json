@@ -1,0 +1,33 @@
+{
+
+  "employees":
+  {
+
+      "id":104,
+
+      "name":"LM<S",
+
+      "description":"SIP",
+
+      "salary":20000,
+
+      "contact":
+      [
+        {
+
+          "mobileNo":"9561766511",
+
+          "description":"Work"
+
+        },
+
+        {
+
+          "mobileNo":"9561766511",
+
+          "description":"home"
+
+        } 
+      ]
+    }
+}
